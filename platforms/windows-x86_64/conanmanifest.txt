@@ -1,0 +1,6 @@
+1582834349
+bin/libusb-1.0.dll: 1ff3068d894b8d479538da2c7f88e9c4
+conaninfo.txt: 315146fb1af72bd984c62fd6a940a3a5
+include/libusb-1.0/libusb.h: 2ee0ea4a9f880ecae2ad96a396dcb90f
+lib/libusb-1.0.lib: 4c181deaad77c3b5524e7ac12499ed5b
+licenses/COPYING: fbc093901857fcd118f065f900982c24
