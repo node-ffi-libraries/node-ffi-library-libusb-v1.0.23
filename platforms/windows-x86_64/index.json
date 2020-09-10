@@ -1,0 +1,31 @@
+{
+  "conan": {
+    "packageId": "127af201a4cdf8111e2e08540525c245c9b3b99e",
+    "reference": "libusb/1.0.23@",
+    "remote": "conan-center"
+  },
+  "library": {
+    "name": "libusb",
+    "reference": "libusb/1.0.23"
+  },
+  "packager": {
+    "name": "node-ffi-packager",
+    "url": "https://github.com/node-ffi-packager",
+    "version": "1.0.0"
+  },
+  "platform": {
+    "headerFiles": [
+      {
+        "name": "./include/libusb-1.0/libusb.h",
+        "path": "./include/libusb-1.0/libusb.h.js"
+      },
+      {
+        "name": "./include/libusb-1.0/libusb.h",
+        "path": "./include/libusb-1.0/libusb.h.js"
+      }
+    ],
+    "libraryDependencies": {},
+    "libraryFiles": ["./bin/libusb-1.0.dll"],
+    "name": "windows-x86_64"
+  }
+}

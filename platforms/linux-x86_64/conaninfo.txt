@@ -1,0 +1,35 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=clang
+    compiler.version=9
+    os=Linux
+
+[requires]
+
+
+[options]
+    enable_udev=True
+    fPIC=True
+    shared=True
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=clang
+    compiler.version=9
+    os=Linux
+
+[full_requires]
+
+
+[full_options]
+    enable_udev=True
+    fPIC=True
+    shared=True
+
+[recipe_hash]
+    9696b360379b5e611153039fb5a38f5c
+
+[env]
+
