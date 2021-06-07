@@ -1,7 +1,7 @@
-1582834073
-conaninfo.txt: 98184accefd750fb16986af41a61bf7c
+1609892880
+conaninfo.txt: 10a7ff68f8bef54949c6e39b48a49381
 include/libusb-1.0/libusb.h: 2ee0ea4a9f880ecae2ad96a396dcb90f
-lib/libusb-1.0.so: b3fdd9d8f86ef18e8754efe3e5a1147b
-lib/libusb-1.0.so.0: b3fdd9d8f86ef18e8754efe3e5a1147b
-lib/libusb-1.0.so.0.2.0: b3fdd9d8f86ef18e8754efe3e5a1147b
+lib/libusb-1.0.so: c98c0f13e52180262ca5d75ce9164823
+lib/libusb-1.0.so.0: c98c0f13e52180262ca5d75ce9164823
+lib/libusb-1.0.so.0.2.0: c98c0f13e52180262ca5d75ce9164823
 licenses/COPYING: fbc093901857fcd118f065f900982c24

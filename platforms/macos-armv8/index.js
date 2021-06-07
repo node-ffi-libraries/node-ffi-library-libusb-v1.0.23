@@ -5,7 +5,7 @@
  * Library: libusb
  * Conan.io recipe reference: libusb/1.0.23
  * Conan.io remote: conan-center
- * Conan.io package id: 81e0007a28308bfd7066b549778d9742cdf72ea6
+ * Conan.io package id: 30acef53c04f36d5f9412c84a1b3a7434a1f10fb
  */
 
 const { loadLibrary } = require("../loader");

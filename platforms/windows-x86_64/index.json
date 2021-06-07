@@ -1,6 +1,6 @@
 {
   "conan": {
-    "packageId": "127af201a4cdf8111e2e08540525c245c9b3b99e",
+    "packageId": "995e0f0b86a651012a3bfca00d60f35ae037db5e",
     "reference": "libusb/1.0.23@",
     "remote": "conan-center"
   },
@@ -9,9 +9,9 @@
     "reference": "libusb/1.0.23"
   },
   "packager": {
-    "name": "node-ffi-packager",
+    "name": "@ffi-packager/ffi-packager",
     "url": "https://github.com/node-ffi-packager",
-    "version": "1.0.0"
+    "version": "2.0.0"
   },
   "platform": {
     "headerFiles": [

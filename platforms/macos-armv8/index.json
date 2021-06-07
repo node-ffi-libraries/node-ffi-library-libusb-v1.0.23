@@ -1,6 +1,6 @@
 {
   "conan": {
-    "packageId": "81e0007a28308bfd7066b549778d9742cdf72ea6",
+    "packageId": "30acef53c04f36d5f9412c84a1b3a7434a1f10fb",
     "reference": "libusb/1.0.23@",
     "remote": "conan-center"
   },
@@ -25,7 +25,7 @@
       }
     ],
     "libraryDependencies": {},
-    "libraryFiles": ["./lib/libusb-1.0.so.0.2.0"],
-    "name": "linux-x86_64"
+    "libraryFiles": ["./lib/libusb-1.0.0.dylib"],
+    "name": "macos-armv8"
   }
 }
