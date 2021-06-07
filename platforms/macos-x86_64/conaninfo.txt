@@ -2,32 +2,30 @@
     arch=x86_64
     build_type=Release
     compiler=apple-clang
-    compiler.version=9.1
+    compiler.version=12.0
     os=Macos
 
 [requires]
 
 
 [options]
-    fPIC=True
     shared=True
 
 [full_settings]
     arch=x86_64
     build_type=Release
     compiler=apple-clang
-    compiler.version=9.1
+    compiler.version=12.0
     os=Macos
 
 [full_requires]
 
 
 [full_options]
-    fPIC=True
     shared=True
 
 [recipe_hash]
-    9696b360379b5e611153039fb5a38f5c
+    8179db03b7efa787a2bc1d27af96d9ef
 
 [env]
 

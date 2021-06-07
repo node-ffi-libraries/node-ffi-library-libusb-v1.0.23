@@ -1,8 +1,8 @@
 {
-  "name": "@node-ffi-libraries/ffi-library-libusb-v1.0.23",
+  "name": "@ffi-libraries/libusb-v1.0.23",
   "private": true,
-  "version": "1.0.0",
-  "description": "FFI package for libusb v1.0.23: \"A cross-platform library to access USB devices\". Available for linux-x86_64, macos-x86_64, windows-x86_64.",
+  "version": "2.0.0",
+  "description": "Automatically generated FFI package for libusb v1.0.23: \"A cross-platform library to access USB devices\". Available for linux-x86_64, macos-armv8, macos-x86_64, windows-x86_64.",
   "homepage": "https://github.com/node-ffi-libraries/node-ffi-library-libusb-v1.0.23",
   "repository": "github:node-ffi-libraries/node-ffi-library-libusb-v1.0.23",
   "license": "MIT",
@@ -12,7 +12,7 @@
     "url": "https://joelpurra.com/"
   },
   "engines": {
-    "node": "^10.0.0 || ^12.0.0"
+    "node": "^12.0.0 || ^14.0.0 || ^16.0.0"
   },
   "main": "index.js",
   "keywords": [
@@ -39,9 +39,9 @@
   },
   "dependencies": {
     "engine-check": "^1.0.1",
-    "ffi-napi": "^3.0.1",
+    "ffi-napi": "^4.0.3",
     "ref-array-di": "^1.2.2",
-    "ref-napi": "^2.1.2",
+    "ref-napi": "^3.0.3",
     "ref-struct-di": "^1.1.1",
     "ref-union-di": "^1.0.1"
   }

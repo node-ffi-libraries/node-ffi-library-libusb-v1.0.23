@@ -1,29 +1,27 @@
 [settings]
-    arch=x86_64
+    arch=armv8
     build_type=Release
-    compiler=clang
-    compiler.version=11
-    os=Linux
+    compiler=apple-clang
+    compiler.version=12.0
+    os=Macos
 
 [requires]
 
 
 [options]
-    enable_udev=True
     shared=True
 
 [full_settings]
-    arch=x86_64
+    arch=armv8
     build_type=Release
-    compiler=clang
-    compiler.version=11
-    os=Linux
+    compiler=apple-clang
+    compiler.version=12.0
+    os=Macos
 
 [full_requires]
 
 
 [full_options]
-    enable_udev=True
     shared=True
 
 [recipe_hash]

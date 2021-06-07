@@ -1,0 +1,6 @@
+1622384488
+conaninfo.txt: 4f6b5c7ec49cf058bd8b116d7cb07132
+include/libusb-1.0/libusb.h: 2ee0ea4a9f880ecae2ad96a396dcb90f
+lib/libusb-1.0.0.dylib: 1ee1e0f21852feeb5daf847e13e7b8dc
+lib/libusb-1.0.dylib: 1ee1e0f21852feeb5daf847e13e7b8dc
+licenses/COPYING: fbc093901857fcd118f065f900982c24
