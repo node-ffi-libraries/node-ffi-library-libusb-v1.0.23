@@ -1,7 +1,7 @@
 {
   "name": "@ffi-libraries/libusb-v1.0.23",
   "private": true,
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Automatically generated FFI package for libusb v1.0.23: \"A cross-platform library to access USB devices\". Available for linux-x86_64, macos-armv8, macos-x86_64, windows-x86_64.",
   "homepage": "https://github.com/node-ffi-libraries/node-ffi-library-libusb-v1.0.23",
   "repository": "github:node-ffi-libraries/node-ffi-library-libusb-v1.0.23",

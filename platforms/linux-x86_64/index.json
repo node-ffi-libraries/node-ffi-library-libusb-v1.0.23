@@ -11,7 +11,7 @@
   "packager": {
     "name": "@ffi-packager/ffi-packager",
     "url": "https://github.com/node-ffi-packager",
-    "version": "2.0.0"
+    "version": "2.0.1"
   },
   "platform": {
     "headerFiles": [
